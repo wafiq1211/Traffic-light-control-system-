@@ -10,5 +10,5 @@ package trafficlightcontrol;
  * @author wafiq
  */
 public class Main {
-    //test
+    //testing
 }
