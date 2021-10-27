@@ -1,7 +1,7 @@
 # Traffic-light-control-system-
 PRG4201 Assignment
 
-#To make it work with your netbeans
+# To make it work with your netbeans
 ![image](https://user-images.githubusercontent.com/70130091/139061301-a6f862e7-47eb-4fcd-8c42-580a84eeec3a.png)
 First you go to settings
 
