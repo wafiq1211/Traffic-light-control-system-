@@ -10,5 +10,9 @@ package trafficlightcontrol;
  * @author wafiq
  */
 public class Main {
-    //testing
+    //this will be the main class, setup thread and run start only I guess.
+    public static void main(String[] args) {
+        
+        //main
+    }
 }
