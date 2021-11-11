@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package groupassignment;
+package testing2;
+
+import testing.*;
+import trafficlightcontrol.*;
 
 /**
  *
  * @author wafiq
  */
-public class GroupAssignment {
-
-    /**
-     * @param args the command line arguments
-     */
+public class Main {
+    //this will be the main class, setup thread and run start only I guess.
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        //main
     }
-    
 }
